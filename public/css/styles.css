@@ -1,28 +1,46 @@
 #container {
-    height: 500px;
-    width: 500px;
+    height: 560px;
+    width: 517px;
     background-color: gray;
+    text-align:center;
+    margin:auto;
 }
 #square1 {
     background-color: red;
     height: 100px;
     width: 100px;
+    display:inline-block;
+    margin:25px;
 }
 #square2 {
     background-color: blue;
     height: 100px;
     width: 100px;
+    display:inline-block;
+        margin:25px;
 }
 #square3 {
     background-color: green;
     height: 100px;
     width: 100px;
+    display:inline-block;
+        margin:25px;
 }
 #square4 {
     background-color: black;
     height: 100px;
     width: 100px;
+    display:inline-block;
+        margin:25px;
 }
-* {
-    border: 1px solid red !important;
+#square5 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    display:inline-block; 
+        margin:25px;
+}
+img {
+    width:100%;
+    height:100%;
 }
